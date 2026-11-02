@@ -92,17 +92,11 @@ Led AI-driven automation from concept to production and co-architected the backe
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nimi-io&theme=radical&utcOffset=1" alt="Productive time" />
 </p>
 
-### 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimi-io&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nimi-io&theme=radical" alt="GitHub stats summary" />
 </p>
 
 ### 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nimi-io&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e&title_color=fe428e&hide_border=true&custom_title=Nimi's%20Contribution%20Graph" alt="Contribution graph" />
-</p>
 
 <p align="center">
   <picture>

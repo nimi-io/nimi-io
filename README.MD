@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About Me
 
-Backend and DevOps engineer based in **Lagos, Nigeria** 🇳🇬 with 5+ years of experience shipping production systems for fintech, healthcare, education and AI companies across Nigeria and the UK. I started out in embedded systems and hardware, and now spend most of my time designing APIs, background job pipelines, payment integrations and the infrastructure that keeps them running.
+Backend and DevOps engineer based in **Lagos, Nigeria** 🇳🇬 with 6+ years of experience shipping production systems for fintech, healthcare, education and AI companies across Nigeria and the UK. I started out in embedded systems and hardware, and now spend most of my time designing APIs, background job pipelines, payment integrations and the infrastructure that keeps them running.
 
 - 🔧 Day to day: **NestJS / TypeScript**, **Go** and **Python**, on **PostgreSQL**, **MongoDB** and **Redis**
 - ⚙️ Ops side: **Docker**, **Kubernetes**, **GitLab CI** and **GitHub Actions**, Linux cloud infrastructure and monitoring
@@ -74,12 +74,41 @@ Led AI-driven automation from concept to production and co-architected the backe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nimi-io&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimi-io&theme=radical" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nimi-io&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=8&layout=compact&hide=html,css,scss,makefile,batchfile,assembly,php&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nimi-io&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nimi-io&theme=radical" alt="Repos per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nimi-io&theme=radical" alt="Most commit language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nimi-io&theme=radical&utcOffset=1" alt="Productive time" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nimi-io&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nimi-io&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e&title_color=fe428e&hide_border=true&custom_title=Nimi's%20Contribution%20Graph" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimi-io/nimi-io/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/nimi-io/nimi-io/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 <p align="center">
